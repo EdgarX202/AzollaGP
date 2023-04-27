@@ -7,6 +7,7 @@ public class StateManager : MonoBehaviour
     public void ReloadCurrentScene()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        Time.timeScale = 1;
     }
 
     // Changing scene by using scenes name
@@ -15,6 +16,7 @@ public class StateManager : MonoBehaviour
         if (name != null)
         {
             SceneManager.LoadScene(name);
+            Time.timeScale = 1;
         }
     }
 
