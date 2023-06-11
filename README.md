@@ -1,4 +1,7 @@
 # Azolla Group Project
+An early prototype of a game made with C# and Unity gaming engine for Group Project module at Edinburgh Napier University. </br>
+
+## Project Brief
 Azolla’s aim is to bring sustainable travel to the mainstream, making sustainable efforts more accessible to travellers and service providers to have a positive environmental and cultural impact. Azolla’s ecosystem comprises of a sustainable travel booking app, online game and VR experience.
 
 Azolla wishes to create a game that uses NFTs as a source of value to link back to the Azolla travel platform to be redeemed by users, and vice versa; travellers receive NFTs based on certain types of bookings that can unlock areas, characters or powers within the game.
