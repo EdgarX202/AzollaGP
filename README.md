@@ -12,11 +12,5 @@
 * Play-to-earn mechanics allow players to earn "tokens" through completing various in-game objectives.
 * The prototype has 1 main area/terminal, 1 settlement builder and 1 platformer level.
 
-<img src='https://github.com/EdgarX202/AzollaGP/assets/79812399/6329aabb-bd65-480f-a711-49c3d37e60dd' width='525'> </br>
- </br>
-<img src='https://github.com/EdgarX202/AzollaGP/assets/79812399/921edb07-d4a6-4a19-8787-602e12f99177' width='525'> </br>
- </br>
-<img src='https://github.com/EdgarX202/AzollaGP/assets/79812399/3d582b9d-7de3-4f1c-b1d1-13abf3990e08' width='525'> </br>
-</br>
-<img src='https://github.com/EdgarX202/AzollaGP/assets/79812399/39322e03-4489-47f2-99ba-b7f36e98b87a' width='525'> </br>
+<img src='https://github.com/EdgarX202/AzollaGP/blob/master/34.gif' width='600'> <br>
 
